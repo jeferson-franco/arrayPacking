@@ -1,0 +1,20 @@
+{
+  "name": "arraypacking",
+  "version": "1.0.0",
+  "description": "You are given an array of up to four non-negative integers, each less than `256`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/arrayPacking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/arrayPacking/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/arrayPacking#readme"
+}
